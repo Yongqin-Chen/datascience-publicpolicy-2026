@@ -19,12 +19,13 @@
     - [review-github.ipynb](notebooks/week_6/review/review-github.ipynb)
 - Week 7 (June 3): Online catch up ("typhoon that wasn't day")
   - [1-text-data.ipynb](notebooks/week_7/1-text-data.ipynb)
-- Week 8 (June )
-
+- Week 8 (June 10): Project Structure & Coding Agents
+  - [1-project-structure-agents.ipynb](notebooks/week_8/1-project-structure-agents.ipynb)
 
 ## Individual Assignments
 
 ### HW 1: Due April 22nd (Week 3)
+
 - Reading data (csv, api)
 - Data manipulation
   - [hw_1.ipynb](notebooks/hw/hw_1.ipynb)
